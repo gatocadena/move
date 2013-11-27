@@ -10,15 +10,16 @@
     <name>MOVE</name>
 
     <description>
-        Aplicacion creadar para dar solucion a algunos de los problemas de movilidad en la ciudad,con varias elecciones dependiendo de tu necesidad
-        
+        Aplicacion creadar para dar solucion a algunos de los problemas de movilidad en la ciudad,con varias elecciones dependiendo de tu necesidad. 
     </description>
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        David Cadena 
+       David Cadena  
     </author>
-<icon src="icons/ldpi.png" gap:platform="android" gap:density="ldpi.png">
-<icon src="icons/mdpi.png" gap:platform="android" gap:density="mdpi.png">
-<icon src="icons/hdpi.png" gap:platform="android" gap:density="hdpi.png">
-<icon src="icons/xhdpi.png" gap:platform="android" gap:density="xhdpi.png">
+	
+	<icon src="icons/ldpi.png" gap:platform="android" gap:density="ldpi.png">
+	<icon src="icons/mdpi.png" gap:platform="android" gap:density="mdpi.png">
+	<icon src="icons/hdpi.png" gap:platform="android" gap:density="hdpi.png">
+	<icon src="icons/xhdpi.png" gap:platform="android" gap:density="xhdpi.png">
+
 </widget>
